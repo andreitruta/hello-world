@@ -1,0 +1,1 @@
+/home/cloud/zoran/FIC2016/proiect/CMakeFiles/video.dir
